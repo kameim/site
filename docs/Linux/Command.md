@@ -97,6 +97,7 @@
 - traceroot
 - nslookup
 - ping
+- strace
 
 ## ハッシュ生成
 
